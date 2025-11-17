@@ -142,18 +142,17 @@
 *Comprehensive project information and features overview*
 
 ### Resume Upload Interface
-![Upload Interface](image4.png)
+![Upload Interface](<img width="1280" height="644" alt="image" src="https://github.com/user-attachments/assets/58f5f171-91de-4648-8c8a-d6da7beeb50e" />)
 *Simple and intuitive file upload with job description input*
 
 ### Analysis Results
-![Analysis Results](image5.png)
-![Analysis Results](image6.png)
-![Analysis Results](image7.png)
-![Analysis Results](image8.png)
+![Analysis Results](<img width="1280" height="644" alt="image" src="https://github.com/user-attachments/assets/11358b12-867e-4e68-95c9-97404f07b651" />)
+![Analysis Results](<img width="1280" height="650" alt="image" src="https://github.com/user-attachments/assets/d59f0a74-645e-401c-8d24-ee38d47d95c6" />)
 *Detailed AI-powered resume analysis with actionable insights*
 
 ### PDF Report Download
-![PDF Download](image9.png)
+![PDF Download](<img width="1280" height="650" alt="image" src="https://github.com/user-attachments/assets/fe6d88c2-0e86-4aea-a6b7-ea90678ecade" />
+)
 *Professional PDF reports for saving and sharing results*
 
 ## 🎯 Applications & Use Cases
