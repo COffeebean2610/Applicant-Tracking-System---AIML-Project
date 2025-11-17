@@ -135,25 +135,14 @@
 
 ## 📸 Screenshots
 
-### Landing Page
 ![Landing Page](image1.png)
 ![Landing Page](image2.png)
 ![Landing Page](image3.png)
-*Comprehensive project information and features overview*
+![6111052f-b420-4ae6-aa5d-e6fd119d4200](https://github.com/user-attachments/assets/e923949a-4269-4d77-8a01-bbdfc999f608)
+![a12ce2bc-76c7-4ef2-95fc-613ba88ca92c](https://github.com/user-attachments/assets/af509196-1e77-47a8-9d46-5c4e9d845a46)
+![9bf76af1-b4a9-4d4c-aeca-f887184b02af](https://github.com/user-attachments/assets/d7ddb58e-3125-4ded-869f-f549877d906b)
 
-### Resume Upload Interface
-![Upload Interface](<img width="1280" height="644" alt="image" src="https://github.com/user-attachments/assets/58f5f171-91de-4648-8c8a-d6da7beeb50e" />)
-*Simple and intuitive file upload with job description input*
 
-### Analysis Results
-![Analysis Results](<img width="1280" height="644" alt="image" src="https://github.com/user-attachments/assets/11358b12-867e-4e68-95c9-97404f07b651" />)
-![Analysis Results](<img width="1280" height="650" alt="image" src="https://github.com/user-attachments/assets/d59f0a74-645e-401c-8d24-ee38d47d95c6" />)
-*Detailed AI-powered resume analysis with actionable insights*
-
-### PDF Report Download
-![PDF Download](<img width="1280" height="650" alt="image" src="https://github.com/user-attachments/assets/fe6d88c2-0e86-4aea-a6b7-ea90678ecade" />
-)
-*Professional PDF reports for saving and sharing results*
 
 ## 🎯 Applications & Use Cases
 
